@@ -6,22 +6,19 @@
   Please look at the following checklist to ensure that your PR can be accepted quickly:
 -->
 
-## Status
-
-**READY/IN DEVELOPMENT/HOLD**
-
 ## Description
 
-<!--- Describe your changes in detail -->
+<!---
+Describe your changes in detai 
 
-## Type of Change
+Issue Number: close #23
+-->
 
-<!--- Put an `x` in all the boxes that apply: -->
+## Checklist
 
-- [ ] ✨ New feature (non-breaking change which adds functionality)
-- [ ] 🛠️ Bug fix (non-breaking change which fixes an issue)
-- [ ] ❌ Breaking change (fix or feature that would cause existing functionality to change)
-- [ ] 🧹 Code refactor
-- [ ] ✅ Build configuration change
-- [ ] 📝 Documentation
-- [ ] 🗑️ Chore
+<!--- Please check this pr satisfies conditions below --->
+- [ ] 👮 this follows rules such as lint rules, business rules etc.
+- [ ] 📝 this makes relevent documentation if type of this pr is bug fix or feature request
+- [ ] 😊 this declaratively explains what it does
+- [ ] 💯 this passes tests, and writes necessary test code
+<!--- If needed, please add new checklist to safely merge pr --->
